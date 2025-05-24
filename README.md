@@ -1,2 +1,2 @@
 # Contrastive-Language-Image-Pre-training
-Implementation of the CLIP method for VLMs by OpenAI
+Abhi kuch nahi hai likhne ko baadme aana 
